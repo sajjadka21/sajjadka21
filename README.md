@@ -12,8 +12,8 @@ My work brings research ideas into usable systems—from language and data pipel
 
 ### Selected public work
 
-**[Ratatoskr](https://github.com/sajjadka21/ratatoskr)**  
-A fast, local-first, Persian-first download manager for Windows and Android.
+- **[Ratatoskr](https://github.com/sajjadka21/ratatoskr)** — a fast, local-first, Persian-first download manager for Windows and Android.
+- **[LEAF](https://github.com/sajjadka21/saeed-leaf-table2text)** — a logic- and evidence-aware table-to-text research pipeline.
 
 ### Tools
 
