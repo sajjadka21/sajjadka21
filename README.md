@@ -17,7 +17,7 @@ My work brings research ideas into usable systems—from language and data pipel
 
 ### Research in progress
 
-- **Sentinel-Based Mapping of First- and Second-Season Rice Cultivation** — submitted manuscript, not yet accepted. The study uses Sentinel satellite imagery to distinguish the two rice-growing seasons and reports state-of-the-art results.
+- **Rice crop-season mapping with Sentinel imagery** — submitted manuscript, not yet accepted. The study distinguishes first- and second-season rice cultivation and reports state-of-the-art results using Sentinel satellite imagery.
 
 ### Areas I work in
 
